@@ -8,7 +8,7 @@
 ![Author](https://img.shields.io/badge/Author-0x1aerixis-black)
 
 <p align="center">
-  <img src="figures/Report_front_page.png" alt="Front page of the NEST 2026 Cohort Final Project report, titled Secure Lab Build, Assessment and Hardening Report, authored by Michael Asante Anim, dated October 11, 2026" width="420">
+  <img src="figures/Report_front page.png" alt="Front page of the NEST 2026 Cohort Final Project report, titled Secure Lab Build, Assessment and Hardening Report, authored by Michael Asante Anim, dated October 11, 2026" width="420">
 </p>
 <p align="center"><em>Caption: Front page of the NEST 2026 Cohort Final Project report (October 11, 2026).</em></p>
 
